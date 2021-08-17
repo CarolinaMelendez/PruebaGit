@@ -55,13 +55,13 @@ int main() {
     }
     //-------------- Commits realizados: ------------------
     // First
-    cout << "El valor de y es: " << y;
+    // cout << "El valor de y es: " << y;
 
     // Second
     // cout << "Y tiene el valor de : " << y;
 
     // Third
-    // cout << "y = : " << y;
+    cout << "y = : " << y;
 
 
 }
