@@ -1,6 +1,3 @@
-Holaa
-quiero helado
-helado de coco, siii
+texto de ReadME
 
-
-Aqui, mas modificaciones
+Los cambios se realizaron en la última linea de print del codigo Polinomio_Interpolante
